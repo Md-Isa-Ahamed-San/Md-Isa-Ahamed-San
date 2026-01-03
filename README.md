@@ -84,8 +84,8 @@
 
 [![San's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Md-Isa-Ahamed-San&&theme=xcode)](https://github.com/Md-Isa-Ahamed-San)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Md-Isa-Ahamed-San&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Md-Isa-Ahamed-San" /></p>
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Md-Isa-Ahamed-San&mode=weekly" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Md-Isa-Ahamed-San&mode=weekly)](https://git.io/streak-stats)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Md-Isa-Ahamed-San&show_icons=true&locale=en&theme=tokyonight" alt="Md-Isa-Ahamed-San" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Md-Isa-Ahamed-San&&theme=tokyonight" alt="Md-Isa-Ahamed-San" /></p>
