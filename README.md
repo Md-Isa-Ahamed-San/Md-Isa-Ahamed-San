@@ -81,11 +81,3 @@
 ![Dev Tools](https://img.shields.io/badge/-DevTools-FF9800?style=flat-square&logo=googlechrome&logoColor=white)
 ![MS Office](https://img.shields.io/badge/-MS_Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
 
-
-[![San's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Md-Isa-Ahamed-San&&theme=xcode)](https://github.com/Md-Isa-Ahamed-San)
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Md-Isa-Ahamed-San&mode=weekly" alt="GitHub Streak" /></a>
-[![GitHub Streak](https://streak-stats.demolab.com?user=Md-Isa-Ahamed-San&mode=weekly)](https://git.io/streak-stats)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Md-Isa-Ahamed-San&show_icons=true&locale=en&theme=tokyonight" alt="Md-Isa-Ahamed-San" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Md-Isa-Ahamed-San&&theme=tokyonight" alt="Md-Isa-Ahamed-San" /></p>
