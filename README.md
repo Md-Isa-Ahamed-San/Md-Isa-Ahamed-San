@@ -86,37 +86,44 @@
 ### 🏆 Competitive Programming
 
 <p align="left">
+  <!-- Codolio + Total CP Problems in the same row -->
   <a href="https://codolio.com/profile/Isa_Ahamed_San" target="_blank">
-    <img src="https://img.shields.io/badge/Codolio-CP_Profile-0A66C2?style=for-the-badge&logo=codeforces&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Codolio-CP_Profile-0A66C2?style=for-the-badge&logo=codeforces&logoColor=white" style="height:28px"/>
+  </a>
+  <a href="https://codolio.com/profile/Isa_Ahamed_San" target="_blank">
+    <img src="https://img.shields.io/badge/Total_CP_Problems-605%2B-blue?style=for-the-badge&logo=codeforces&logoColor=white" style="height:28px"/>
   </a>
 </p>
 
 <p align="left">
+  <!-- Problem count badges -->
   <a href="https://leetcode.com/u/Isa_Ahamed_San/">
-    <img src="https://img.shields.io/badge/LeetCode-210%2B_Problems-orange?style=for-the-badge&logo=leetcode"/>
+    <img src="https://img.shields.io/badge/LeetCode-210%2B_Problems-orange?style=for-the-badge&logo=leetcode" style="height:28px"/>
   </a>
   <a href="https://codeforces.com/profile/isaahmedshan190138">
-    <img src="https://img.shields.io/badge/Codeforces-200%2B_Problems-blue?style=for-the-badge&logo=codeforces"/>
+    <img src="https://img.shields.io/badge/Codeforces-200%2B_Problems-blue?style=for-the-badge&logo=codeforces" style="height:28px"/>
   </a>
   <a href="https://www.codechef.com/users/isa_ahamed_san">
-    <img src="https://img.shields.io/badge/CodeChef-30%2B_Problems-brown?style=for-the-badge&logo=codechef"/>
+    <img src="https://img.shields.io/badge/CodeChef-30%2B_Problems-brown?style=for-the-badge&logo=codechef" style="height:28px"/>
   </a>
   <a href="https://www.geeksforgeeks.org/user/isaahmedshan190138/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-70_Problems-darkgreen?style=for-the-badge&logo=geeksforgeeks"/>
+    <img src="https://img.shields.io/badge/GeeksforGeeks-70_Problems-darkgreen?style=for-the-badge&logo=geeksforgeeks" style="height:28px"/>
   </a>
   <a href="https://www.beecrowd.com.br/judge/en/profile/">
-    <img src="https://img.shields.io/badge/Beecrowd-65_Problems-purple?style=for-the-badge&logo=codeforces"/>
+    <img src="https://img.shields.io/badge/Beecrowd-65_Problems-purple?style=for-the-badge&logo=codeforces" style="height:28px"/>
   </a>
   <a href="https://atcoder.jp/">
-    <img src="https://img.shields.io/badge/AtCoder-30_Problems-black?style=for-the-badge&logo=atcoder"/>
+    <img src="https://img.shields.io/badge/AtCoder-30_Problems-black?style=for-the-badge&logo=atcoder" style="height:28px"/>
   </a>
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/LeetCode_Rating-1508-yellow?style=flat-square&logo=leetcode"/>
-  <img src="https://img.shields.io/badge/Codeforces_Rating-995-blue?style=flat-square&logo=codeforces"/>
-  <img src="https://img.shields.io/badge/CodeChef_Rating-1342-brown?style=flat-square&logo=codechef"/>
+  <!-- Contest ratings badges -->
+  <img src="https://img.shields.io/badge/LeetCode_Rating-1508-yellow?style=flat-square&logo=leetcode" style="height:28px"/>
+  <img src="https://img.shields.io/badge/Codeforces_Rating-995-blue?style=flat-square&logo=codeforces" style="height:28px"/>
+  <img src="https://img.shields.io/badge/CodeChef_Rating-1342-brown?style=flat-square&logo=codechef" style="height:28px"/>
 </p>
+
 
 ---
 
