@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm San</h1>
 <h3 align="center">Full Stack Software Engineer | Web Instructor @ Programming Hero | Backend-First | MERN / PERN</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzhwNXJ2ZmpzYjhjODE5d2Eyc2d2YXMxdmk3MmFtazZmNTN1NHQyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Md-Isa-Ahamed-San&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
@@ -12,6 +10,8 @@
 ---
 
 ## 👨‍💻 About Me
+
+<img align="right" alt="Coding" width="250" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzhwNXJ2ZmpzYjhjODE5d2Eyc2d2YXMxdmk3MmFtazZmNTN1NHQyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 
 - 🎓 CS Undergraduate @ **Jashore University of Science & Technology**
 - 👨‍🏫 Web Instructor @ **Programming Hero** — teaching full-stack web development
