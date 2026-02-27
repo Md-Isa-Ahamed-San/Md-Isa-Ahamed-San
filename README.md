@@ -1,9 +1,9 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 <h1 align="center">Hi 👋, I'm San</h1>
-<h3 align="center">Full Stack Software Engineer | Backend-First | MERN / PERN</h3>
+<h3 align="center">Full Stack Software Engineer | Web Instructor @ Programming Hero | Backend-First | MERN / PERN</h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/15857bd385b12298e036391e6b9644e481eb0903f46311126cb5f571df2b3686/68747470733a2f2f77686f736172676879612e6e65746c6966792e6170702f636f6e74656e742f67697068792e676966">
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzhwNXJ2ZmpzYjhjODE5d2Eyc2d2YXMxdmk3MmFtazZmNTN1NHQyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Md-Isa-Ahamed-San&label=Profile%20views&color=0e75b6&style=flat" />
@@ -14,6 +14,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 CS Undergraduate @ **Jashore University of Science & Technology**
+- 👨‍🏫 Web Instructor @ **Programming Hero** — teaching full-stack web development
 - 🧠 Backend-first engineer with strong system design & problem-solving mindset
 - 🌱 Currently deep-diving into **Next.js ecosystem & scalable backend architecture**
 - 💬 Ask me about **MERN / PERN / Django REST / Databases**
@@ -34,6 +35,9 @@
   <a href="mailto:isaahmedshan190138@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://www.programming-hero.com" target="_blank">
+    <img src="https://img.shields.io/badge/Programming_Hero-Instructor-FF6B35?style=for-the-badge&logo=teachable&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -48,6 +52,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 ---
+
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-45b8d8?style=flat-square&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -55,7 +60,9 @@
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=flat-square&logo=radixui&logoColor=white)
+
 ---
+
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
@@ -86,7 +93,6 @@
 ### 🏆 Competitive Programming
 
 <p align="left">
-  <!-- Codolio + Total CP Problems in the same row -->
   <a href="https://codolio.com/profile/Isa_Ahamed_San" target="_blank">
     <img src="https://img.shields.io/badge/Codolio-CP_Profile-0A66C2?style=for-the-badge&logo=codeforces&logoColor=white" style="height:28px"/>
   </a>
@@ -96,7 +102,6 @@
 </p>
 
 <p align="left">
-  <!-- Problem count badges -->
   <a href="https://leetcode.com/u/Isa_Ahamed_San/">
     <img src="https://img.shields.io/badge/LeetCode-210%2B_Problems-orange?style=for-the-badge&logo=leetcode" style="height:28px"/>
   </a>
@@ -118,12 +123,10 @@
 </p>
 
 <p align="left">
-  <!-- Contest ratings badges -->
   <img src="https://img.shields.io/badge/LeetCode_Rating-1508-yellow?style=flat-square&logo=leetcode" style="height:28px"/>
   <img src="https://img.shields.io/badge/Codeforces_Rating-995-blue?style=flat-square&logo=codeforces" style="height:28px"/>
   <img src="https://img.shields.io/badge/CodeChef_Rating-1342-brown?style=flat-square&logo=codechef" style="height:28px"/>
 </p>
-
 
 ---
 
