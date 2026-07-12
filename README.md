@@ -97,19 +97,19 @@
     <img src="https://img.shields.io/badge/Codolio-CP_Profile-0A66C2?style=for-the-badge&logo=codeforces&logoColor=white" style="height:28px"/>
   </a>
   <a href="https://codolio.com/profile/Isa_Ahamed_San" target="_blank">
-    <img src="https://img.shields.io/badge/Total_CP_Problems-800+%2B-blue?style=for-the-badge&logo=codeforces&logoColor=white" style="height:28px"/>
+    <img src="https://img.shields.io/badge/Total_CP_Problems-800%2B-blue?style=for-the-badge&logo=codeforces&logoColor=white" style="height:28px"/>
   </a>
 </p>
 
 <p align="left">
   <a href="https://leetcode.com/u/Isa_Ahamed_San/">
-    <img src="https://img.shields.io/badge/LeetCode-230+%2B_Problems-orange?style=for-the-badge&logo=leetcode" style="height:28px"/>
+    <img src="https://img.shields.io/badge/LeetCode-230%2B_Problems-orange?style=for-the-badge&logo=leetcode" style="height:28px"/>
   </a>
   <a href="https://codeforces.com/profile/isaahmedshan190138">
-    <img src="https://img.shields.io/badge/Codeforces-400+%2B_Problems-blue?style=for-the-badge&logo=codeforces" style="height:28px"/>
+    <img src="https://img.shields.io/badge/Codeforces-400%2B_Problems-blue?style=for-the-badge&logo=codeforces" style="height:28px"/>
   </a>
   <a href="https://www.codechef.com/users/isa_ahamed_san">
-    <img src="https://img.shields.io/badge/CodeChef-100+%2B_Problems-brown?style=for-the-badge&logo=codechef" style="height:28px"/>
+    <img src="https://img.shields.io/badge/CodeChef-100%2B_Problems-brown?style=for-the-badge&logo=codechef" style="height:28px"/>
   </a>
   <a href="https://www.geeksforgeeks.org/user/isaahmedshan190138/">
     <img src="https://img.shields.io/badge/GeeksforGeeks-70_Problems-darkgreen?style=for-the-badge&logo=geeksforgeeks" style="height:28px"/>
