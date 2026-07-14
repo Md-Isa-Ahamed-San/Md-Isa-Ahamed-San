@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 <h1 align="center">Hi 👋, I'm San</h1>
-<h3 align="center">Full Stack Software Engineer | Web Instructor @ Programming Hero | Backend-First | MERN / PERN</h3>
+<h3 align="center"> Web Instructor @ Programming Hero | Competitive Programmer | Backend-First Software Engineer</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Md-Isa-Ahamed-San&label=Profile%20views&color=0e75b6&style=flat" />
@@ -18,7 +18,7 @@
 - 🧠 Backend-first engineer with strong system design & problem-solving mindset
 - 🌱 Currently deep-diving into **Next.js ecosystem & scalable backend architecture**
 - 💬 Ask me about **MERN / PERN / Django REST / Databases**
-- 📫 Reach me at **isaahmedshan190138@gmail.com**
+- 📫 Reach me at **mdisaahamedsan.ph@gmail.com**
 - ⚡ Fun fact: I debug better at night 🌙
 
 ---
@@ -34,7 +34,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=isaahmedshan190138@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mdisaahamedsan.ph@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://wa.me/8801410037883">
