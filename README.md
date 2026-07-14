@@ -26,17 +26,24 @@
 ## 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://isa-ahamed-san-portfolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=globe&logoColor=white"/>
+  <a href="https://isa-ahamed-san-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://www.linkedin.com/in/isaahamedsan/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+  <a href="https://www.linkedin.com/in/isaahamedsan/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+
   <a href="mailto:isaahmedshan190138@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.programming-hero.com" target="_blank">
-    <img src="https://img.shields.io/badge/Programming_Hero-Instructor-FF6B35?style=for-the-badge&logo=teachable&logoColor=white"/>
+
+  <a href="https://wa.me/8801410037883">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+
+  <a href="https://www.programming-hero.com">
+    <img src="https://img.shields.io/badge/Programming%20Hero-Instructor-FF6B35?style=for-the-badge&logo=bookstack&logoColor=white" alt="Programming Hero"/>
   </a>
 </p>
 
