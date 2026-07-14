@@ -40,10 +40,6 @@
   <a href="https://wa.me/8801410037883">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
-
-  <a href="https://www.programming-hero.com">
-    <img src="https://img.shields.io/badge/Programming%20Hero-Instructor-FF6B35?style=for-the-badge&logo=bookstack&logoColor=white" alt="Programming Hero"/>
-  </a>
 </p>
 
 ---
